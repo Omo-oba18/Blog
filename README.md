@@ -10,10 +10,18 @@ Edit or delete existing blog posts
 View all posts
 Search for specific posts.
 
+
+
 ###Requirements
 Node.js
 React
 Express-Generator
+
+###Modules used 
+cors
+cookie-parser
+helmet
+pg
 
 ###Setup
 Clone this repository
